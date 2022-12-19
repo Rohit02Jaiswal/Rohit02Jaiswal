@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Rohit Jaiswal
+- 👀 I’m interested in learn New Technologies day by day...
+- 🌱 I’m currently learning C/C++, DSA, Web_Dev...
+- 💞️ I’m looking to collaborate on IT Industries...
+
+<!---
+Rohit02Jaiswal/Rohit02Jaiswal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
